@@ -1,5 +1,5 @@
 # MM-BART
-my baseline for AVSD (SOTA achieved by BART)
+my baseline for AVSD (SOTA achieved by BART 😂)
 
 | model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | ROUGE-L | CIDEr |
 |----|----|----|----|----|----|----|----|
