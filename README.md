@@ -1,13 +1,14 @@
 # MM-BART
 my baseline for AVSD (SOTA achieved by BART 😂)
 
+with caption
 | model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | ROUGE-L | CIDEr |
 |----|----|----|----|----|----|----|----|
 | RLM   | 0.765  | 0.643  | 0.543  | 0.459  | 0.294  | 0.606   | 1.308 |
 | PDC   | 0.770  | 0.650  | 0.539  | 0.449  | 0.292  | 0.606   | 1.295 |
 | MM-BART | 0.784  | 0.665  | 0.562  | 0.476  | 0.313  | 0.625   | 1.388 |
 
-
+without caption
 | model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | ROUGE-L | CIDEr |
 |----|----|----|----|----|----|----|----|
 | RLM   | 0.746  | 0.626  | 0.528  | 0.445  | 0.286  | 0.598   | 1.240 |
